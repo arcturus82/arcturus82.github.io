@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yon Don't Know Me?"
+title                    : "Young Woo"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "A developer making bugs (since 2021.03)" # site tagline that appears below site title in masthead
 name                     : "Park Young Woo"
 description              : "An amazing website."
 url                      : "https://arcturus82.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Park Young-Woo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "i am a person who makes bugs."
+  location         : "Seoul, South Korea"
+  email            : arcturus82@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
