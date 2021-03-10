@@ -140,6 +140,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "HackerRank"
+      icon: "fab fa-fw fa-hackerrank"
+      url: "https://www.hackerrank.com/pyw8206"
 
 
 # Reading Files
