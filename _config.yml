@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Young Woo"
+locale                   : "ko-KR"
+title                    : "츄러스 코드"
 title_separator          : "-"
 subtitle                 : "A developer making bugs (since 2021.03)" # site tagline that appears below site title in masthead
 name                     : "Park Young Woo"
-description              : "An amazing website."
+description              : "내 블로그 - 버그 만드는 개발자."
 url                      : "https://arcturus82.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
