@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "츄러스 코드"
+title                    : "미세 개발자"
 title_separator          : "-"
 subtitle                 : "A developer making bugs (since 2021.03)" # site tagline that appears below site title in masthead
 name                     : "Park Young Woo"
@@ -102,13 +102,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:arcturus82@gmail.com"
     - label: "HackerRank"
       icon: "fab fa-fw fa-hackerrank"
       url: "https://www.hackerrank.com/pyw8206"
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.linkedin.com/in/%EC%98%81%EC%9A%B0-%EB%B0%95-06a99173/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
